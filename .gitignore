@@ -1,0 +1,11 @@
+# Sistema
+.DS_Store
+
+# Configurações locais do Claude
+.claude/
+
+# Arquivos de trabalho / prints temporários
+prints/
+
+# Imagem não utilizada na página
+assets/policial.jpg
